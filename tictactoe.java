@@ -1,7 +1,7 @@
 package tictactoe;
 import java.util.*;
 
-public class lab2 {
+public class tictactoe {
 	static class placement
 	{
 		int r, c;
